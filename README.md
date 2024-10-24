@@ -10,6 +10,8 @@
 
 An easy way to set a timezone for a user in your application and then show date/times to them in their local timezone.
 
+**Note:** This package has been modified to be compatible with Laravel 11 by updating the `composer.json` file.
+
 ## How does it work
 
 This package listens for the `\Illuminate\Auth\Events\Login` event and will then automatically set a `timezone` on your `user` model (stored in the database).

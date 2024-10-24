@@ -1,7 +1,7 @@
 {
-    "name": "jamesmills/laravel-timezone",
+    "name": "itutu-media/laravel11-timezone",
     "license": "MIT",
-    "description": "Timezone storage and retrieval for Laravel",
+    "description": "This package from https://packagist.org/packages/jamesmills/laravel-timezone",
     "keywords": [
         "laravel",
         "timezone"
